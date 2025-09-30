@@ -1,0 +1,1 @@
+v17: Removed 'Loading…' flash; fade-in root on mount.
